@@ -93,7 +93,7 @@ require (
 	github.com/go-stomp/stomp v2.1.4+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/uuid/v5 v5.3.0
-	github.com/golang-jwt/jwt/v5 v5.2.1
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang/geo v0.0.0-20190916061304-5b978397cfec
 	github.com/golang/snappy v0.0.4
 	github.com/google/cel-go v0.23.0
@@ -173,7 +173,7 @@ require (
 	github.com/prometheus/prometheus v0.54.1
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.2
-	github.com/redis/go-redis/v9 v9.7.0
+	github.com/redis/go-redis/v9 v9.7.3
 	github.com/riemann/riemann-go-client v0.5.1-0.20211206220514-f58f10cdce16
 	github.com/robbiet480/go.nut v0.0.0-20220219091450-bd8f121e1fa1
 	github.com/robinson/gos7 v0.0.0-20240315073918-1f14519e4846
@@ -216,9 +216,9 @@ require (
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
 	go.step.sm/crypto v0.54.0
-	golang.org/x/crypto v0.33.0
+	golang.org/x/crypto v0.35.0
 	golang.org/x/mod v0.22.0
-	golang.org/x/net v0.35.0
+	golang.org/x/net v0.36.0
 	golang.org/x/oauth2 v0.25.0
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0
@@ -268,7 +268,7 @@ require (
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.2 // indirect
-	github.com/ClickHouse/ch-go v0.64.1 // indirect
+	github.com/ClickHouse/ch-go v0.65.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.25.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.48.1 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.48.1 // indirect
@@ -342,7 +342,7 @@ require (
 	github.com/go-faster/city v1.0.1 // indirect
 	github.com/go-faster/errors v0.7.1 // indirect
 	github.com/go-git/go-billy/v5 v5.5.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
@@ -356,7 +356,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
